@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+  "description": "TaskServer.Repository Class Library",
+  "authors": [ "Vadim" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": { }
+    
+  },
+  "dependencies": {
+    "EntityFramework": "6.1.3",
+    "TaskServer.Entities": "1.0.0-*",
+    "TaskServer.Interfaces": "1.0.0-*"
+  }
+}
